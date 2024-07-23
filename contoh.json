@@ -1,0 +1,136 @@
+{
+    "dp": {
+        "isUsed": false,
+        "value": {
+            "$numberDecimal": "0"
+        }
+    },
+    "_id": "669f264675ff5a106819fdae",
+    "items": [
+        {
+            "product": [
+                {
+                    "productId": {
+                        "status": {
+                            "value": "terpublish",
+                            "message": "Produk kamu sedang dalam proses tinjauan superapp. Produk kamu akan segera terunggah setelah tinjauan selesai."
+                        },
+                        "_id": "Prod-66961f817cf9fa6fbe73fb7d",
+                        "bervarian": false,
+                        "name_product": "Nasi Maulana",
+                        "price": 30000,
+                        "description": "Hai mz",
+                        "long_description": "Iyh",
+                        "minimalDp": null,
+                        "image_product": [
+                            "https://staging-backend.superdigitalapps.my.id/public/img_products/Nasi_Maulana_1721114497765.jpeg"
+                        ],
+                        "userId": "6666889630b2f454ab8301cd",
+                        "id_main_category": "6643037536c776b1490ad74f",
+                        "id_sub_category": "664d6c03022983b0285579ef",
+                        "categoryId": "668e5a44895d76ecad83b29d",
+                        "total_stok": 89759,
+                        "pemasok": null,
+                        "rating": 0,
+                        "minimalOrder": 20,
+                        "isFlashSale": false,
+                        "panjang": 10,
+                        "lebar": 10,
+                        "tinggi": 10,
+                        "berat": 20,
+                        "isReviewed": false,
+                        "pangan": [],
+                        "varian": null,
+                        "createdAt": "2024-07-16T07:21:37.768Z",
+                        "updatedAt": "2024-07-23T02:58:22.189Z",
+                        "total_price": 30000,
+                        "__v": 3,
+                        "reviews": [
+                            "6698ddb30a5170b03daa1f07",
+                            "6698deb2d4949a131f18e2b2",
+                            "6698e6e84e073b8a8bd82bf7",
+                            "6698e780368b730f2881821c",
+                            "6698e7cc6dfb32a905026a88",
+                            "6698e7ef368b730f28818243",
+                            "6698e844368b730f28818297",
+                            "6698e8656dfb32a905026b00",
+                            "669a085f74e01449fd4d36c6",
+                            "669a0a1b6135de5614e4b79a",
+                            "669a0a536135de5614e4b7ba",
+                            "669f0ee823602c936714c377",
+                            "669f152f75ff5a106819f64f",
+                            "669f1b6edd69412121f9ae95",
+                            "669f1bd875ff5a106819f882",
+                            "669f1c4e75ff5a106819f89b"
+                        ],
+                        "poin_review": 5
+                    },
+                    "quantity": 180,
+                    "varian": [],
+                    "note": "",
+                    "proteksi": false,
+                    "promo": "-"
+                }
+            ],
+            "deadline": "2024-07-30T03:40:00.000Z",
+            "kode_pesanan": "PSN_KNS_20240723_091720_1",
+            "isDistributtorApproved": false,
+            "isApproved": false,
+            "rejected": false
+        }
+    ],
+    "userId": "66611e12ba5df3eba7c2025d",
+    "addressId": {
+        "pinAlamat": {
+            "long": {
+                "$numberDecimal": "107.08197457449779"
+            },
+            "lat": {
+                "$numberDecimal": "-6.23574712478792"
+            }
+        },
+        "_id": "66611f05ba5df3eba7c20313",
+        "province": "Jawa Barat",
+        "regency": "Kabupaten Bekasi",
+        "district": "Tambun Selatan",
+        "village": "Sumberjaya",
+        "code_pos": 17519,
+        "address_description": "Camping IPPO ayam",
+        "userId": "66611e12ba5df3eba7c2025d",
+        "isPic": false,
+        "isMain": true,
+        "__v": 0
+    },
+    "date_order": "20240723",
+    "status": "Berlangsung",
+    "biaya_layanan": 1000,
+    "biaya_jasa_aplikasi": 1000,
+    "poinTerpakai": 0,
+    "biaya_asuransi": false,
+    "biaya_awal_asuransi": 500,
+    "biaya_awal_proteksi": 2000,
+    "expire": "2024-07-24T02:17:20.528Z",
+    "sekolahId": "6695d8d312db45597a24b32e",
+    "shipments": [
+        {
+            "id_distributor": "667cd9c9d93bafedffcba32a",
+            "total_ongkir": 166000,
+            "potongan_ongkir": 0,
+            "ongkir": 166000,
+            "products": [
+                {
+                    "productId": "Prod-66961f817cf9fa6fbe73fb7d",
+                    "quantity": 180,
+                    "_id": "669f264675ff5a106819fdaf"
+                }
+            ],
+            "waktu_pengiriman": "2024-07-30T03:40:00.000Z",
+            "id_jenis_kendaraan": "66825402c431e8e455a5023a",
+            "id_jenis_layanan": "667d1b43ef7a7441b0f6aed0",
+            "id_toko_vendor": "666689dd30b2f454ab83035f"
+        }
+    ],
+    "createdAt": "2024-07-23T03:40:54.849Z",
+    "updatedAt": "2024-07-23T03:40:54.944Z",
+    "__v": 0
+}
